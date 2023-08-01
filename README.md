@@ -17,6 +17,9 @@ The *Internet Nomad* password manager is built upon research into encryption typ
  - Password Generator
  - Theming Support
 
+# Demo
+Here's a YouTube link for a live demo: https://www.youtube.com/watch?v=I6TTAu4d1j0
+
 # Previews
 ![image](https://user-images.githubusercontent.com/17202074/137570344-4963957e-46ac-45f8-b940-52b05ac18b52.png)
 ![image](https://user-images.githubusercontent.com/17202074/137570386-331dda3b-1e44-4560-a30b-552c6844843f.png)
